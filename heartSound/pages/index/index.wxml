@@ -1,0 +1,23 @@
+<!--index.wxml-->
+<view class="container">
+  
+  <view class='box'>
+    <image src='/images/xljj.png' class='icon-button-right-1' bindtap='gotoSmallTalk'></image>
+    <text class='text1' style="font-size:1.0rem;color:#000000">小聊两句</text>
+    </view>
+      <view class='section'></view>
+      <view class='box'>
+       <text class='text2' style="font-size:1.0rem;color:#000000">促膝长谈</text>
+    <image src='/images/zxct.png' class='icon-button-left' bindtap='gotoLongTalk'></image>
+   
+  </view>
+
+  <view class='section'></view>
+
+  <view class='box' bindtap='gotoDraw'>
+    <image src='/images/hbty.png' class='icon-button-right'></image>
+    <text class='text1' style="font-size:1.0rem;color:#000000">和我画画</text>
+  </view>
+
+</view>
+

@@ -1,0 +1,32 @@
+/**index.wxss**/
+
+.box{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 50%;
+  width: 100%;
+  background: #e7e7e7;
+}
+
+.icon-button-right{
+  height: 185rpx;
+  width: 185rpx;
+  margin-left:10rpx;
+  }
+.icon-button-left{
+  height:180rpx;
+  width:180rpx;
+  margin-left:300rpx;
+}
+.icon-button-right-1{
+  height: 170rpx;
+  width: 170rpx;
+  }
+  .text1{
+    margin-left:350rpx;
+  }
+  .text2{
+    margin-left:30rpx;
+    width:200rpx;
+  }
